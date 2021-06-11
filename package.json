@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "name": "blog-engine",
+  "version": "1.0.0",
+  "description": "A blog engine, built to learn the latest development practices for fullstack SPAs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/snowbytes/blog-engine.git"
+  },
+  "author": "snowbytes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snowbytes/blog-engine/issues"
+  },
+  "homepage": "https://github.com/snowbytes/blog-engine#readme"
+}
